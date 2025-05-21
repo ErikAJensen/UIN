@@ -19,8 +19,6 @@ export default function Info () {
 
         return (
             <>
-            <h2>Navn</h2>
-
             {userName === "Erik" ? (
                 <p>Vellkommen Erik</p>
             ) : (
